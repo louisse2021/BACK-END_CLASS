@@ -5,6 +5,8 @@ const myHouse = {
     ringBellCameras: 2,
     appsForCameras: ['Webcam'],
     proofOfObjectInObject: {}
+
+
 }
 
 console.log('myHouse', myHouse)
