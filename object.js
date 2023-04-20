@@ -1,7 +1,7 @@
 const myHouse = {
     style: 'Victorian',
     color: 'White',
-    isItHighCeillings: 'True',
+    isItHighCeilings: 'True',
     ringBellCameras: 2,
     appsForCameras: ['Webcam'],
     proofOfObjectInObject: {}

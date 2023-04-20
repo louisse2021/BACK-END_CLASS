@@ -26,7 +26,7 @@ const accounts = [
         name: 'jeremie',
         email: 'jeremie@gmail.com',
         address: 'MintHill',
-    },
+    }
 ];
 
-module.exports = accounts;
+export default accounts;
