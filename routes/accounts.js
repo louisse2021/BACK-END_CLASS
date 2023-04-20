@@ -1,6 +1,7 @@
+//import the installed modules
 const express = require('express');
-const router = express.Router();
-const uuid = require('uuid');
+const app = express.Router();
+
 let accounts = require('../../Accounts');
 
 //get all accounts

@@ -29,4 +29,4 @@ const accounts = [
     }
 ];
 
-export default accounts;
+module.exports = accounts;
